@@ -1,0 +1,22 @@
+{
+    "[python]": {
+    "editor.defaultFormatter": "iansan5653.format-python-docstrings"
+    },
+    "autoDocstring.docstringFormat": "sphinx",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "themeSwitcher.themesList": "Dark+,Light+",
+    "editor.lineNumbers": "relative",
+    "keyboard.dispatch": "keyCode",
+    "editor.fontSize": 12,
+    "terminal.integrated.fontFamily": "courier new",
+    "python.dataScience.sendSelectionToInteractiveWindow": true,
+    "window.zoomLevel": -1,
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before" : ["<C-n>"],
+            "commands": ["workbench.action.toggleSidebarVisibility"]
+        }
+    ]
+}
